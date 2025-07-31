@@ -1,0 +1,3 @@
+invoice_id,customer_name,amount,status,invoice_date
+INV-1012,Gopi Enterprises,2789.99,Unpaid,2025-03-17 09:15:07
+INV-1013,Sai Traders,1599.0,Paid,2025-03-15 14:00:00

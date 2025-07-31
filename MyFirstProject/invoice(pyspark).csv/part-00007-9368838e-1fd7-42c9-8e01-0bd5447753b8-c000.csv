@@ -1,0 +1,3 @@
+invoice_id,customer_name,amount,status,invoice_date
+INV-1014,Lakshmi & Co,2200.0,Paid,2025-03-06 13:33:33
+INV-1015,Kiran Stores,4100.2,Unpaid,2025-03-18 07:45:45
